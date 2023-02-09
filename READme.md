@@ -1,1 +1,1 @@
-this is a trial
+added more exercises
